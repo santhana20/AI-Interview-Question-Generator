@@ -14,6 +14,7 @@ AI tool that generates job-specific interview questions for students & job seeke
 ```bash
 pip install streamlit
 streamlit run interview.py
+
 ## About
 Built as part of learning AI/ML & Web Development. CS Student at Holy Cross College, Trichy. 
 Seeking internship opportunities 2026.
