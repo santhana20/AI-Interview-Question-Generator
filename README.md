@@ -11,8 +11,14 @@ AI-powered tool that generates custom interview questions using NLP. Built with 
 Python, NLP, Streamlit, Git, GitHub
 
 ## 🚀 How to Run
-1. Install requirements: pip install -r requirements.txt
-2. Run the app: streamlit run interview.py
+1. Install requirements:
+ ```
+ pip install -r requirements.txt
+```
+2. Run the app:
+```
+streamlit run interview.py
+```
 
 ## 📌 About
 Built as part of learning AI/ML & Web Development. CS Student at Holy Cross College, Trichy. 
