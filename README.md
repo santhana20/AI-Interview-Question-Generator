@@ -20,5 +20,7 @@ Built as part of learning AI/ML & Web Development. CS Student at Holy Cross Coll
 Seeking internship opportunities 2026.
 
 ---
+If this helped you, give it a star!
+
 ⭐ If this helped you, give it a star!
 
