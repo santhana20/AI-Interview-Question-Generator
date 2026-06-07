@@ -1,26 +1,22 @@
-# 🤖 AI Interview Question Generator
+# AI Interview Question Generator
 
-AI tool that generates job-specific interview questions for students & job seekers using Python + NLP + Streamlit.
+AI-powered tool that generates custom interview questions using NLP. Built with Python and Streamlit for students preparing for placements/internships.
 
-## ✨ Features
-- Enter job role → Get 10+ relevant interview questions instantly
-- Clean Streamlit web interface 
+## Features
+- Enter topic + difficulty level to get instant questions
+- Clean Streamlit web interface  
 - Built for students preparing for placements/internships
 
 ## 🛠️ Tech Stack
-`Python` `NLP` `Streamlit` `Git` `GitHub`
+Python, NLP, Streamlit, Git, GitHub
 
 ## 🚀 How to Run
-```bash
-pip install streamlit
-streamlit run interview.py
+1. Install requirements: pip install -r requirements.txt
+2. Run the app: streamlit run interview.py
 
-## About
+## 📌 About
 Built as part of learning AI/ML & Web Development. CS Student at Holy Cross College, Trichy. 
 Seeking internship opportunities 2026.
 
 ---
-If this helped you, give it a star!
-
 ⭐ If this helped you, give it a star!
-
